@@ -13,8 +13,7 @@
 6. [Relaciones UML ↔ Código](#relaciones-uml-↔-código)
 7. [Detalle de clases](#detalle-de-cada-clase)
 8. [Flujo del patrón](#patrón-cadena-de-responsabilidad—flujo-ilustrado)
-9. [Ventajas del patrón](#ventajas-del-patrón)
-10. [Créditos](#créditos)
+9. [Créditos](#créditos)
 
 ---
 
@@ -134,19 +133,11 @@ src/
   │✔ pasa                 │✖ "Destino prohibido"
   │                       └── Fin (mensaje de error)
   ▼
-      ✅  Aprobado
+        Aprobado
 ```
 
----
-
-## Ventajas del patrón
-* Extensible
-* Desacoplado
-* SRP
-* OCP
-* Testable
 
 ---
 
 ## Créditos
-Proyecto elaborado por **[Tu Nombre]**.
+Proyecto elaborado por **Arturo Aliaga**.

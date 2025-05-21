@@ -99,7 +99,17 @@ src/
 ---
 
 ## Detalle de cada clase
-*(tabla resumida igual que en canvas)*
+
+| Clase | Rol | Principal responsabilidad |
+|-------|-----|---------------------------|
+| `Verificador` | Interfaz | Contrato de la cadena. |
+| `VerificadorCamposObligatorios` | Handler 1 | Comprueba que no falte ningún dato. |
+| `VerificadorDimensiones` | Handler 2 | Valida dimensiones máximas. |
+| `AduanaLocal` | Handler 3 | Simula reglas de aduana nacional. |
+| `ControlDestino` | Handler 4 | Bloquea países prohibidos. |
+| `Paquete` | DTO | Contiene datos del envío. |
+| `FormularioEnvio` | UI Swing | Recoge datos, crea `Paquete`, arma la cadena, muestra resultado. |
+| `Main` | Entrada | Lanza la interfaz. |
 
 ---
 

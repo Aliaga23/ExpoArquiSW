@@ -13,7 +13,8 @@
 6. [Relaciones UML ↔ Código](#relaciones-uml-↔-código)
 7. [Detalle de clases](#detalle-de-cada-clase)
 8. [Flujo del patrón](#patrón-cadena-de-responsabilidad—flujo-ilustrado)
-9. [Créditos](#créditos)
+9. [Imágenes de referencia](#imágenes-de-referencia)
+10. [Créditos](#créditos)
 
 ---
 
@@ -33,8 +34,8 @@ Cada verificador aplica su regla y, de superarla, delega la petición al **sigui
 
 | Descripción | Imagen |
 |-------------|--------|
-| **Diagrama de Clases** – Representa la interfaz `Verificador`, los handlers concretos, la auto‑asociación `siguiente`, la clase `Main` y el DTO `Paquete`. | ![Diagrama de clases](assets/diagrama-clases.png) |
-| **Interfaz Swing** – Ventana `FormularioEnvio` donde se ingresan los datos del paquete y se muestra el resultado de la verificación. | ![Interfaz Swing](assets/interfaz-swing.png) |
+| **Diagrama de Clases** – Representa la interfaz `Verificador`, los handlers concretos, la auto‑asociación `siguiente`, la clase `Main` y el DTO `Paquete`. | <img src="diagramaarqui.drawio.png" alt="Diagrama de clases" width="300"/> |
+| **Interfaz Swing** – Ventana `FormularioEnvio` donde se ingresan los datos del paquete y se muestra el resultado de la verificación. | <img src="interfaz.png" alt="Interfaz Swing" width="300"/> |
 
 *(Coloca tus capturas en la carpeta **assets/** con esos nombres para que el README las muestre correctamente).*  
 
@@ -145,7 +146,19 @@ src/
   ▼
         Aprobado
 ```
+---
 
+## Imágenes de referencia
+
+### Diagrama de Clases
+
+<img src="diagramaarqui.drawio.png" alt="Diagrama de clases" width="500"/>
+
+---
+
+### Interfaz Swing
+
+<img src="interfaz.png" alt="Interfaz Swing" width="500"/>
 
 ---
 

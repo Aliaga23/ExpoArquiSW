@@ -1,6 +1,10 @@
 # Cadena de Responsabilidad para la Verificación de Envíos
 
 > Proyecto de ejemplo en **Java + Swing** que muestra cómo aplicar el patrón **Chain of Responsibility** para validar envíos internacionales de paquetes.
+>
+> Exposicion del patron de diseño Cadena de Responsabilidad
+>
+> Nota 10/10
 
 ---
 

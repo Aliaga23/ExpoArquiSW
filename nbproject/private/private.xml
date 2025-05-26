@@ -3,15 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/VerificacionEnvio/src/verificacionenvio/dto/Paquete.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/VerificacionEnvio/src/verificacionenvio/impl/ControlDestino.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/VerificacionEnvio/src/verificacionenvio/spec/Verificador.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/VerificacionEnvio/src/verificacionenvio/main/Main.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/VerificacionEnvio/src/verificacionenvio/impl/DocumentacionInternacional.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/VerificacionEnvio/src/verificacionenvio/impl/AduanaLocal.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/VerificacionEnvio/src/verificacionenvio/ui/FormularioEnvio.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/VerificacionEnvio/src/verificacionenvio/impl/VerificadorCamposObligatorios.java</file>
-            <file>file:/C:/Users/PC/Documents/NetBeansProjects/VerificacionEnvio/src/verificacionenvio/impl/VerificadorDimensiones.java</file>
+            <file>file:/C:/Users/jaav2/Desktop/VerificacionEnvio2/VerificacionEnvio/src/verificacionenvio/impl/VerificadorDimensiones.java</file>
+            <file>file:/C:/Users/jaav2/Desktop/VerificacionEnvio2/VerificacionEnvio/src/verificacionenvio/dto/Paquete.java</file>
+            <file>file:/C:/Users/jaav2/Desktop/VerificacionEnvio2/VerificacionEnvio/src/verificacionenvio/impl/VerificadorCamposObligatorios.java</file>
+            <file>file:/C:/Users/jaav2/Desktop/VerificacionEnvio2/VerificacionEnvio/src/verificacionenvio/spec/Verificador.java</file>
+            <file>file:/C:/Users/jaav2/Desktop/VerificacionEnvio2/VerificacionEnvio/src/verificacionenvio/ui/FormularioEnvio.java</file>
+            <file>file:/C:/Users/jaav2/Desktop/VerificacionEnvio2/VerificacionEnvio/src/verificacionenvio/impl/ControlDestino.java</file>
+            <file>file:/C:/Users/jaav2/Desktop/VerificacionEnvio2/VerificacionEnvio/src/verificacionenvio/impl/DocumentacionInternacional.java</file>
         </group>
     </open-files>
 </project-private>

@@ -11,6 +11,7 @@ public class Paquete {
     private double alto;
     private String contenido;
     //private boolean documentacionCompleta;
+    //expliquen a detalle su diagrama
     private String paisDestino;
     ///private static final double PESO_MAXIMO = 30.0; // Peso máximo en kg
     public Paquete(double peso, double largo, double ancho, double alto, String contenido, String paisDestino) {
